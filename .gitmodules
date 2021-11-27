@@ -1,0 +1,3 @@
+[submodule "packages/ting-ting-infrastructure"]
+	path = packages/ting-ting-infrastructure
+	url = git@github.com:OZahnitko/ting-ting-infrastructure.git
